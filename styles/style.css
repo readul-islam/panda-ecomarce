@@ -8,6 +8,7 @@
 }
 .panda-btn-color{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
 }
 .categorise{
     color: white;
@@ -28,4 +29,11 @@
 .shoes-bg{
     background-color: #0000ff;
     border-radius: 10px;
+}
+.section-cards{
+    margin-top: 16rem;
+}
+
+.heading{
+    margin-bottom: 25px;
 }
