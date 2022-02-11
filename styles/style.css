@@ -1,0 +1,31 @@
+/* custom css style here  */
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.panda-border-color{
+    border: 1px solid #fceae8 ;
+    border-radius: 10px;
+}
+.panda-btn-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.categorise{
+    color: white;
+}
+.categorise img{
+    width: 100px;
+    height: 100px;
+    
+}
+.watch-bg{
+    background-color: #ffa500;
+    border-radius: 10px;
+}
+.bag-bg{
+    background-color: #da70d6;
+    border-radius: 10px;
+}
+.shoes-bg{
+    background-color: #0000ff;
+    border-radius: 10px;
+}
